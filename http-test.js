@@ -1,5 +1,5 @@
 // http-test.js
-const artik = require('./artik-sdk');
+const artik = require('artik-sdk');
 
 var http = artik.http();
 
